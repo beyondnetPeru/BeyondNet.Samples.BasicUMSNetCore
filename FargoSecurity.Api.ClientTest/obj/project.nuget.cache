@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rP4KPeK4cFhe12UbBh4P2+2sSeB6itC85MHhsX0PLdy0Og7Ji8JeKkOC3VipacWP3Tb24JKFjqKQmHwCLULSWw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\beyondnetcode\\fargo\\FargoSecurity.Api.ClientTest\\FargoSecurity.Api.ClientTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aarroyo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

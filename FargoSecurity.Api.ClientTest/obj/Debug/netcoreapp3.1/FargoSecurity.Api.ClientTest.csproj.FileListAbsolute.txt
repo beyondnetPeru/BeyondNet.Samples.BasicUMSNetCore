@@ -1,0 +1,40 @@
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.exe
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.deps.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.runtimeconfig.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.runtimeconfig.dev.json
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.dll
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.pdb
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.csprojAssemblyReference.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.AssemblyInfoInputs.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.AssemblyInfo.cs
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.csproj.CoreCompileInputs.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.RazorTargetAssemblyInfo.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\staticwebassets\FargoSecurity.Api.ClientTest.StaticWebAssets.Manifest.cache
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\staticwebassets\FargoSecurity.Api.ClientTest.StaticWebAssets.xml
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.dll
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.pdb
+C:\Personal\beyondnetcode\fargo\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.genruntimeconfig.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.exe
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.deps.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.runtimeconfig.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.runtimeconfig.dev.json
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.dll
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\bin\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.pdb
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.csprojAssemblyReference.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.AssemblyInfoInputs.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.AssemblyInfo.cs
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.csproj.CoreCompileInputs.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.RazorTargetAssemblyInfo.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\staticwebassets\FargoSecurity.Api.ClientTest.StaticWebAssets.Manifest.cache
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\staticwebassets\FargoSecurity.Api.ClientTest.StaticWebAssets.xml
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.dll
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.pdb
+C:\Personal\1. beyondnet@code\fargo\security\backend\FargoSecurity.Api.ClientTest\obj\Debug\netcoreapp3.1\FargoSecurity.Api.ClientTest.genruntimeconfig.cache

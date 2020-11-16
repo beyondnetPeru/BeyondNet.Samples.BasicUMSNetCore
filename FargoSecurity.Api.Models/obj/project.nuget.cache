@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2Q1YtBABHR/uEEWPJBIZ7D7FYW35XckLKH35N2r2isamLFEwqgafHiNDTxrODwf8n2blpPutRg8Dz6iLmsifw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\beyondnetcode\\fargo\\FargoSecurity.Api.Models\\FargoSecurity.Api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aarroyo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aarroyo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
